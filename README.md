@@ -2,6 +2,7 @@
 <h6>About git</h6>
 <i>Git is a tool that helps you keep track of changes in your code (like a smart history tracker). GitHub is a website where you can store that code online, share it, and work together with others.</i>
 
+
 <b>🌱 Simple Explanation</b>
 
 Git:
